@@ -1,0 +1,20 @@
+{
+  "name": "chzzidemo1",
+  "version": "1.0.3",
+  "description": "A weather demo by Chengzzi",
+  "main": "index.js",
+  "bin": {
+    "weather": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chengzzi"
+  ],
+  "author": "Chengzzi",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.16.2"
+  }
+}
